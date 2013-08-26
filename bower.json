@@ -16,5 +16,8 @@
   "dependencies": {
     "res-persist-test-app-dep": "git@github.com:SpainTrain/res-persist-test-app-dep.git#master",
     "res-persist-test": "git@github.com:mike-spainhower/res-persist-test.git#custom"
+  },
+  "resolutions": {
+    "res-persist-test": "custom"
   }
 }
