@@ -1,0 +1,19 @@
+{
+  "name": "res-persist-test-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mike-spainhower/res-persist-test-app",
+  "authors": [
+    "Mike Spainhower <michael@personal.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "res-persist-test-app-dep": "git@github.com:SpainTrain/res-persist-test-app-dep.git#master"
+  }
+}
