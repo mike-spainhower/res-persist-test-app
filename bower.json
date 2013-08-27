@@ -15,9 +15,11 @@
   ],
   "dependencies": {
     "res-persist-test-app-dep": "git@github.com:SpainTrain/res-persist-test-app-dep.git#master",
-    "res-persist-test": "git@github.com:mike-spainhower/res-persist-test.git#custom"
+    "res-persist-test": "git@github.com:mike-spainhower/res-persist-test.git#custom",
+    "res-persist-edgecase": "git@github.com:mike-spainhower/res-persist-edgecase.git#v0.1.0-pre-feature"
   },
   "resolutions": {
-    "res-persist-test": "custom"
+    "res-persist-test": "custom",
+    "res-persist-edgecase": "v0.1.0-pre-feature"
   }
 }
